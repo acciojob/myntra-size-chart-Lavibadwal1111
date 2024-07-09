@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:1px;
+	width:100%;
+}
+thead{
+	color:white;
+	background-color:#cc0000;
+	text-align:left;
+}
+td,th{
+	border:1px solid black;
+}
+#r1{
+	color:white;
+	background-color:#ff8080;
+}
+#r2{
+	color:black;
+	background-color:#ffcccc;
+}
+#r3{
+	color:black;
+	background-color:#ff8080;
+}
